@@ -36,6 +36,13 @@ public class Student {
     void testAll()
  {
      System.out.println("Hello");
+    
      return;
 }
+
+int CountAll(){
+
+    return 0;
+}
+
 }
